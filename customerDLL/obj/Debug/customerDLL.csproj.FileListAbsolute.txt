@@ -26,3 +26,8 @@ C:\Users\Hofer\Documents\GitHub\SWEProject1\customerDLL\obj\Debug\customerDLL.cs
 C:\Users\Hofer\Documents\GitHub\SWEProject1\customerDLL\obj\Debug\customerDLL.dll
 C:\Users\Hofer\Documents\GitHub\SWEProject1\customerDLL\obj\Debug\customerDLL.pdb
 >>>>>>> refs/remotes/origin/master
+C:\GitHub\SWEProject1\customerDLL\bin\Debug\customerDLL.dll
+C:\GitHub\SWEProject1\customerDLL\bin\Debug\customerDLL.pdb
+C:\GitHub\SWEProject1\customerDLL\obj\Debug\customerDLL.csprojResolveAssemblyReference.cache
+C:\GitHub\SWEProject1\customerDLL\obj\Debug\customerDLL.dll
+C:\GitHub\SWEProject1\customerDLL\obj\Debug\customerDLL.pdb

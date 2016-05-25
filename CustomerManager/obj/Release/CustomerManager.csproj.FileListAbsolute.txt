@@ -13,3 +13,6 @@ C:\Users\Johannes\Documents\GitHub\SWEProject1\CustomerManager\obj\Release\Custo
 C:\Users\Johannes\Documents\GitHub\SWEProject1\CustomerManager\obj\Release\CustomerManager.csproj.GenerateResource.Cache
 C:\Users\Johannes\Documents\GitHub\SWEProject1\CustomerManager\obj\Release\CustomerManager.exe
 C:\Users\Johannes\Documents\GitHub\SWEProject1\CustomerManager\obj\Release\CustomerManager.pdb
+C:\GitHub\SWEProject1\CustomerManager\bin\Release\CustomerManager.exe.config
+C:\GitHub\SWEProject1\CustomerManager\obj\Release\CustomerManager.exe
+C:\GitHub\SWEProject1\CustomerManager\obj\Release\CustomerManager.pdb
