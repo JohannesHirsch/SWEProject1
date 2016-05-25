@@ -3,3 +3,8 @@ C:\Users\Johannes\Documents\GitHub\SWEProject1\customerDLL\bin\Release\customerD
 C:\Users\Johannes\Documents\GitHub\SWEProject1\customerDLL\obj\Release\customerDLL.csprojResolveAssemblyReference.cache
 C:\Users\Johannes\Documents\GitHub\SWEProject1\customerDLL\obj\Release\customerDLL.dll
 C:\Users\Johannes\Documents\GitHub\SWEProject1\customerDLL\obj\Release\customerDLL.pdb
+C:\GitHub\SWEProject1\customerDLL\bin\Release\customerDLL.dll
+C:\GitHub\SWEProject1\customerDLL\bin\Release\customerDLL.pdb
+C:\GitHub\SWEProject1\customerDLL\obj\Release\customerDLL.csprojResolveAssemblyReference.cache
+C:\GitHub\SWEProject1\customerDLL\obj\Release\customerDLL.dll
+C:\GitHub\SWEProject1\customerDLL\obj\Release\customerDLL.pdb
