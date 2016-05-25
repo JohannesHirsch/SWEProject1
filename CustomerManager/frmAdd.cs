@@ -51,11 +51,16 @@ namespace CustomerManager
             Error error;
             //try
             //    {
-            do
-            {
+            //do
+            //{
                 cNew = new Customer(this.id, this.tbxFirstName.Text, this.tbxLastName.Text, this.tbxEmail.Text, out error);
+            if (error.Code == 0)
+            {
                 MessageBox.Show(error.Code.ToString());
-            } while (error.Code != 0);
+                DialogResult = DialogResult.Cancel;
+            }
+                
+            //} while (error.Code != 0);
 
                 if (!(Customer.IsEmailUnique(CNew, this.customers)))
                 {
